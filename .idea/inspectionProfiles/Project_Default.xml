@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="GrazieInspection" enabled="false" level="TYPO" enabled_by_default="false" />
+    <inspection_tool class="LanguageDetectionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E128" />
+          <option value="E231" />
+          <option value="E302" />
+          <option value="E305" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="myownproject.pkg2.pkg2test2.pkg" />
+          <option value="pkg1test" />
+          <option value="spider.Spider.crawl_page" />
+          <option value="spider.Spider.update_files" />
+          <option value="spider.Spider.add_links_to_queue" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
