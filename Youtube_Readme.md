@@ -28,7 +28,7 @@ once the data was ready i applied statistical techniques to analyze the data.  T
 |   3    | Question for Analysis |
 |   4    |       Results       |
 |   5    |     Conclusion      |
-|   6    |      Appendix       |
+
 
 ## Executive Summary:
 
@@ -203,7 +203,7 @@ This data also helps digital marketing businesses advertise their products becau
 
 - [@Rishikesh Jawale](https://github.com/rushikeshjawale?tab=repositories)
 
-# 🔗 Connect with me
+# 🔗 Connect with me:
 [![linkedin](https://www.linkedin.com/in/rishikesh-jawale-433551252/)
 
 
