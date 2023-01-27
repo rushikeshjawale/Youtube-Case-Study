@@ -203,14 +203,5 @@ This data also helps digital marketing businesses advertise their products becau
 
 - [@Rishikesh Jawale](https://github.com/rushikeshjawale?tab=repositories)
 
-# 🔗 Connect with me:
-[![linkedin](https://www.linkedin.com/in/rishikesh-jawale-433551252/)
-
-
-
-
-
-
-
-
-
+# 🔗 Connect with me
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishikesh-jawale-433551252/)
